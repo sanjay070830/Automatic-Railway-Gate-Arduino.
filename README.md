@@ -39,7 +39,7 @@ To design and develop an automatic railway gate system using an Arduino UNO, ult
 * GND| GND  
 * Signal| Digital Pin 6
 
-![][image1]
+![circuit](circuit..jpg)
 
  *Working Principle*
 
@@ -81,7 +81,7 @@ Servo Motor Rotates Back → Gate Opens
 9\. The servo motor rotates and closes the railway gate.  
 10\. When the object moves away from the sensor, the Arduino detects the increased distance.  
 11\. The servo motor returns to its original position and opens the gate.  
-![][image2]
+![simulation](simulation.jpg)
 
  *Applications*
 
@@ -109,7 +109,7 @@ Servo Motor Rotates Back → Gate Opens
 \- The prototype is a demonstration model and is not suitable for controlling real railway gates.  
 \- Environmental conditions and incorrect sensor positioning can affect detection.  
 \- A real railway system requires highly reliable, certified safety systems and multiple levels of protection.  
-![][image3]
+![result](result..jpg)
 
  *Result*
 
